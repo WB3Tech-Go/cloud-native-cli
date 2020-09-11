@@ -1,4 +1,4 @@
-module CloudNativeCli
+module github.com/WB3Tech/cloud-native-cli
 
 go 1.15
 

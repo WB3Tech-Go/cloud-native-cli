@@ -1,4 +1,5 @@
 .idea/
+cloud-native-cli
 
 # Binaries for programs and plugins
 *.exe
