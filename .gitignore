@@ -1,5 +1,6 @@
 .idea/
 cloud-native-cli
+wb3
 
 # Binaries for programs and plugins
 *.exe

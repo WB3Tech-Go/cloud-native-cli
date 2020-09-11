@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/WB3Tech/cloud-native-cli/cmd"
+import "wb3/cmd"
 
 func main() {
 	cmd.Execute()

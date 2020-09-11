@@ -1,4 +1,4 @@
-module github.com/WB3Tech/cloud-native-cli
+module wb3
 
 go 1.15
 
