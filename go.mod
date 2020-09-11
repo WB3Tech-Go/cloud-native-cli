@@ -1,4 +1,4 @@
-module wb3
+module CloudNativeCli
 
 go 1.15
 
