@@ -1,4 +1,4 @@
-module github.com/WB3Tech/cloud-native-cli
+module github.com/wb3tech-go/cna
 
 go 1.15
 
